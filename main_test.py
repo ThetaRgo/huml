@@ -10,7 +10,7 @@ from models.knn.Knn import knn_classfier
 from sklearn.datasets import load_iris
 from pub.model_selection import train_test_split
 from pub.processing import meanStdStandardScaler
-from models.linearRegression.lnregression import linearRegression
+from models.linearRegression.sample_lnregression import linearRegression
 
 if __name__ == '__main__':
     # KNN

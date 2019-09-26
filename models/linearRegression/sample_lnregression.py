@@ -3,7 +3,7 @@
 # @Time   : 2019/9/24
 # @Author : 茶葫芦
 # @Site   : 
-# @File   : lnregression.py
+# @File   : sample_lnregression.py
 
 import numpy as np
 from pub.metrics import mse,rmse,mae,r2_square
